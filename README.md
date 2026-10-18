@@ -1,19 +1,18 @@
-# TransferLog
+![Capturas de la app de empleado](docs/imagenes/transferlog_banner.png)
 
 **TransferLog** es una aplicación móvil desarrollada con **React Native**, **Expo** y **Supabase** para gestionar empleados, turnos, vacaciones y fichajes en empresas de transporte.
 
 La aplicación centraliza la operativa diaria de administración y autogestión del empleado desde una única app, incorporando planificación de turnos, control horario, geolocalización configurable y trazabilidad de fichajes.
 
-## 🚀 Pantallas de empleados
+## Pantallas de empleados
 ![Capturas de la app de empleado](docs/imagenes/transferlog_screenshots_empleado.png)
 [📥 Ver guía completa (PDF)](docs/guias/Manual_de_uso_(empleado)_TransferLog.pdf) · [⬇️ Descargar](docs/guias/Manual_de_uso_(empleado)_TransferLog.pdf?raw=true)
 
-
-## 🚀 Pantallas de administrador
+## Pantallas de administrador
 ![Capturas de la app de empleado](docs/imagenes/transferlog_screenshots_admin.png)
 [📥 Ver guía completa (PDF)](docs/guias/Manual_de_uso_(administrador)_TransferLog.pdf) · [⬇️ Descargar](docs/guias/Manual_de_uso_(administrador)_TransferLog.pdf?raw=true)
-## 🚀 Funcionalidades principales
 
+## 🚀 Funcionalidades principales
 ### 👤 Empleados y autenticación
 - Gestión de empleados con roles `admin` y `employee`.
 - Alta, edición y baja de personal desde administración.
