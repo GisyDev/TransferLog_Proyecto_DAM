@@ -5,14 +5,13 @@
 La aplicación centraliza la operativa diaria de administración y autogestión del empleado desde una única app, incorporando planificación de turnos, control horario, geolocalización configurable y trazabilidad de fichajes.
 
 ## 🚀 Pantallas de empleados
-[📥 Ver guía completa (PDF)](docs/guias/Manual_de_uso_(empleado)_TransferLog.pdf) · [⬇️ Descargar](docs/guias/Manual_de_uso_(empleado)_TransferLog.pdf?raw=true)
 ![Capturas de la app de empleado](docs/imagenes/transferlog_screenshots_empleado.png)
+[📥 Ver guía completa (PDF)](docs/guias/Manual_de_uso_(empleado)_TransferLog.pdf) · [⬇️ Descargar](docs/guias/Manual_de_uso_(empleado)_TransferLog.pdf?raw=true)
 
 
 ## 🚀 Pantallas de administrador
-[📥 Ver guía completa (PDF)](docs/guias/Manual_de_uso_(administrador)_TransferLog.pdf) · [⬇️ Descargar](docs/guias/Manual_de_uso_(administrador)_TransferLog.pdf?raw=true)
 ![Capturas de la app de empleado](docs/imagenes/transferlog_screenshots_admin.png)
-
+[📥 Ver guía completa (PDF)](docs/guias/Manual_de_uso_(administrador)_TransferLog.pdf) · [⬇️ Descargar](docs/guias/Manual_de_uso_(administrador)_TransferLog.pdf?raw=true)
 ## 🚀 Funcionalidades principales
 
 ### 👤 Empleados y autenticación
